@@ -1,4 +1,5 @@
 'use strict';
+const { NODE_ENV } = require('./config');
 
 function errorHandler(error, req, res, next) { // eslint-disable-line no-unused-vars
   let response;

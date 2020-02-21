@@ -77,7 +77,7 @@ bookmarksRouter
         .status(404)
         .send('Not found');
     }
-    // [a, c]
+  
     bookmarks.splice(bookmarkIndex, 1);
 
     logger.info(`Bookmark with the id ${id} deleted.`);
