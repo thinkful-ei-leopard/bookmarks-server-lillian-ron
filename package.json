@@ -2,7 +2,7 @@
   "name": "express-boilerplate",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "mocha",
     "start": "node src/server.js",
@@ -22,6 +22,7 @@
     "morgan": "^1.9.1",
     "nodemon": "^2.0.2",
     "uuid": "^3.4.0",
+    "valid-url": "^1.0.9",
     "winston": "^3.2.1"
   }
 }

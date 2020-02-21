@@ -1,1 +1,53 @@
 {"message":"Unauthorized request to path /bookmarks","level":"error"}
+{"message":"Bookmark with id 123 was not found","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"level":"error"}
+{"message":"All fields are required","level":"error"}
+{"level":"error"}
+{"message":"All fields are required","level":"error"}
+{"level":"error"}
+{"message":"All fields are required","level":"error"}
+{"level":"error"}
+{"message":"All fields are required","level":"error"}
+{"level":"error"}
+{"message":"All fields are required","level":"error"}
+{"level":"error"}
+{"message":"All fields are required","level":"error"}
+{"level":"error"}
+{"message":"Bookmark with the id 40abcc73-f5ab-419a-8269-b9737b7175cc created. BOOKMARK: [object Object]","level":"info"}
+{"level":"error"}
+{"message":"Bookmark with the id e390063f-10bd-4aa0-9ff4-7109da91d59b created. BOOKMARK: undefined","level":"info"}
+{"message":{},"level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":{},"level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"All fields are required","level":"error"}
+{"message":"Bookmark with the id 6502339d-6de0-43c3-aa04-ac2e963d3082 created.","level":"info"}
+{"message":"Bookmark with the id 20f21465-b0ed-4596-9e1a-af032d682eee deleted.","level":"info"}
+{"message":"Invalid url 'google.com' supplied","level":"error"}
+{"message":"Bookmark with the id 3fdb7b6a-ea21-4b5e-9243-867865c2ac2e deleted.","level":"info"}
